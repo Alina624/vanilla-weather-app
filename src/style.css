@@ -74,3 +74,22 @@ a {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  color: #000;
+  opacity: 0.5;
+}
+.weather-forecast-temperatures-min {
+  font-size: 13px;
+  color: #000;
+  opacity: 0.5;
+}
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
